@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Welcome to My Website
 
 You can use the [editor on GitHub](https://github.com/Sugarbug1211/Sugarbug1211.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

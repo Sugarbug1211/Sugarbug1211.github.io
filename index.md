@@ -4,6 +4,15 @@ Hi, and welcome to my website!  Here I will explain the courses that I take at m
 
 ### My Classes:
 
+-Math
+-History
+-English
+-German
+-Biology
+-Web Design
+-Sports
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown

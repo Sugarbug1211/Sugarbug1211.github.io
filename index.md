@@ -1,8 +1,6 @@
 ## Welcome to My Website
 
-You can use the [editor on GitHub](https://github.com/Sugarbug1211/Sugarbug1211.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, and welcome to my website!  Here I will explain the courses that I take at my school and the schedule in which I take them in.
 
 ### Markdown
 

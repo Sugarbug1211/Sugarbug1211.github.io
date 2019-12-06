@@ -12,25 +12,17 @@ Hi, and welcome to my website!  Here I will explain the courses that I take at m
 - Web Design
 - Sports
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### My Schedule:
 ```markdown
-Syntax highlighted code block
+Math = 8:30-9:15 am
+- Everyday
+History = 9:20-10:15 am
+- Mon, Tue, Wed, Thurs
+English = 10:20-11:15 am
+- Mon, Tue, Wed
+          9:20-10:15 am
+-Fri
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

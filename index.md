@@ -2,7 +2,7 @@
 
 Hi, and welcome to my website!  Here I will explain the courses that I take at my school and the schedule in which I take them in.
 
-### Markdown
+### My Classes:
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

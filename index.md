@@ -1,4 +1,4 @@
-## Welcome to My Website
+## Welcome to My Website!
 
 Hi, and welcome to my website!  Here I will explain the courses that I take at my school and the schedule in which I take them in.
 
@@ -13,24 +13,25 @@ Hi, and welcome to my website!  Here I will explain the courses that I take at m
 - Sports
 
 ### My Schedule:
-```markdown
 Math = 8:30-9:15 am
 - Everyday
 History = 9:20-10:15 am
 - Mon, Tue, Wed, Thurs
-English = 10:20-11:15 am
+English = 10:25-11:20 am
 - Mon, Tue, Wed
-          9:20-10:15 am
+9:20-10:15 am
 -Fri
+German = 11:25 am-12:20 pm
+-Mon, Tue
+10:25-11:20 am
+-Thurs, Fri
+Biology = 1:20-2:15 pm
+-Mon
+11:25 am-12:20 pm
+-Wed, Thurs, Fri
+Web Design = 1:20-2:15 pm
+-Tue, Wed, Thurs, Fri
+Sports = 2:20-3:15 pm
+-Mon, Tue, Thurs, Fri
 
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sugarbug1211/Sugarbug1211.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Thank you for checking out my website!

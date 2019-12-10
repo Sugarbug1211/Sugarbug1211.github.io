@@ -4,6 +4,6 @@ description:
 layout: master
 ---
 
-# This is a rendom page
+# This is a random page
 
 random random random

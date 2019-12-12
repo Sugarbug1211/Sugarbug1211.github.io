@@ -1,0 +1,67 @@
+body{background-color: lavender;}
+
+a{color: rgb(0, 150, 0);}
+
+p{color: rgb(105, 0, 180);
+  background-color: ;
+  margin: 10pt;
+  text-align: center;
+  font-size: 20pt;
+  line-height: 1;
+  font-family: monospace;}
+
+h1{color: slateblue;
+  background-color: ;
+  margin: 10pt;
+  text-align: center;
+  font-size: 30pt;
+  line-height: 1;
+  font-family: comic sans ms;}
+
+h2{color: black;
+  background-color: ;
+  margin: 10pt;
+  text-align: center;
+  font-size: 15pt;
+  line-height: 1;
+  font-family: monospace;}
+
+h3{color: forestgreen;
+   background-color: ;
+   margin: 10pt;
+   text-align: left;
+   font-size: 17.5pt;
+   line-height: 1;
+   font-family: comic sans ms;
+   text-decoration: underline;}
+
+   h5{color: gray;
+      background-color: ;
+      margin: 10pt;
+      text-align: left;
+      font-size: 17.5pt;
+      line-height: 1;
+      font-family: comic sans ms;
+      text-decoration: underline;}
+
+      h6{color: steelblue;
+         background-color: ;
+         margin: 10pt;
+         text-align: left;
+         font-size: 17.5pt;
+         line-height: 1;
+         font-family: comic sans ms;
+         text-decoration: underline;}
+
+h4{color: black;
+   background-color: ;
+   margin: 10pt;
+   text-align: left;
+   font-size: 12.5pt;
+   line-height: 1;
+   font-family: sans-serif;;}
+
+hr{color: mediumslateblue;
+   height: 10px;
+   width: 900px;
+   background-color: mediumslateblue;}

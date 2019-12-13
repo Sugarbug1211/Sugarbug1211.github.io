@@ -1,0 +1,54 @@
+body {background-repeat: no-repeat;
+    background-image: url("./background.jpg");
+    background-size: cover;}  
+
+hr {color:maroon;
+    height: 10px;
+    width: 850px;
+    border:1px solid maroon;
+    background-color: maroon;}
+
+/*Title*/
+h1{color: rgb(207, 0, 45);
+    font-family: forte;
+    background-color: rgba(255, 255, 255, 0.307);
+    font-size: 45pt;
+    margin: 20pt;
+    height: 85px;
+    width: 750px;}
+
+/*Calories, Servings, Time & Difficulty*/
+h2{color: rgb(231, 44, 44) ;
+    font-family: calibri;
+    font-size: 18.5pt;
+}
+
+/*Ingredients - list*/
+h3{color: black;
+    font-family: monospace;
+    font-size: 12.5pt;
+}
+
+/*Ingredients & Instruction - title*/
+h4{color:rgb(199, 199, 199);
+    font-family: forte;
+    font-size: 30pt;
+    text-align: center;
+}
+
+/*Instructions - list*/
+h5{color: black;
+    font-family: monospace;
+    font-size: 12.5pt;
+    text-align: left;
+}
+
+/*Calories, Servings, Time & Difficulty Table*/
+h6{background-color: rgba(255, 255, 255, 0.295);
+}
+
+/*Cited Sources*/
+p{color: rgb(97, 0, 0);
+    font-family: Comic sans MS;
+    font-size: 15pt;
+}

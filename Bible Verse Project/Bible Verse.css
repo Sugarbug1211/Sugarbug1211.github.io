@@ -1,0 +1,65 @@
+body{background-color:#E6E6FA}
+
+h7 {color: mediumspringgreen;
+    background-color: #E6E6FA;
+    margin: 10pt;
+    text-align: left;
+    font-size: 20pt;
+    line-height: 3;
+    font-family: "Calibri", serif;
+    font-style: bold;}
+
+h1 {color: aquamarine;
+    background-color: #E6E6FA;
+    margin: 10pt;
+    text-align: center;
+    font-size: 35pt;
+    line-height: 1;
+    font-family: "Courier New", serif;
+    font-style: italic;}
+
+h2 {color: aqua;
+    background-color: #E6E6FA;
+    margin: 10pt;
+    text-align: center;
+    font-size: 35pt;
+    line-height: 1;
+    font-family: "Courier New", serif;
+    font-style: italic;}
+
+h3 {color: aquamarine;
+    background-color: #E6E6FA;
+    margin: 10pt;
+    text-align: center;
+    font-size: 35pt;
+    line-height: 1;
+    font-family: "Courier New", serif;
+    font-style: italic;}
+
+h4 {color: aqua;
+    background-color: #E6E6FA;
+    margin: 10pt;
+    text-align: center;
+    font-size: 35pt;
+    line-height: 1;
+    font-family: "Courier New", serif;
+    font-style: italic;}
+
+h5 {color: aquamarine;
+    background-color: #E6E6FA;
+    margin: 10pt;
+    text-align: center;
+    font-size: 35pt;
+    line-height: 1;
+    font-family: "Courier New", serif;
+    font-style: italic;}
+
+h6 {color: mediumspringgreen;
+    background-color: #E6E6FA;
+    margin: 10pt;
+    text-align: center;
+    font-size: 40pt;
+    line-height: 2;
+    font-family: "Courier New", serif;
+    text-decoration: underline;
+    font-style: italic;}

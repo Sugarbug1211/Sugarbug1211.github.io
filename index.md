@@ -10,7 +10,8 @@ Hi, and welcome to my website!  Here are all of the projects that I have done in
 - https://sugarbug1211.github.io/Bible%20Verse%20Project/Bible%20Verse.htm
 
 ### Harder Projects:
-- 
+- https://sugarbug1211.github.io/Recipe%20Project/Recipe%20Project.html
+- https://sugarbug1211.github.io/Wonders%20of%20the%20World%20Project/10%20Wonders%20of%20the%20World
 
 ### Javascript Projects:
 - 

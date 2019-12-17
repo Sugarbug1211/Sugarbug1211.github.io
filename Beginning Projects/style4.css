@@ -1,0 +1,25 @@
+h3 {color: white;
+    background-color: black;
+    margin: 10pt;
+    text-align: center;
+    font-size: 25pt;
+    line-height: 1;
+    font-style: italic;}
+
+h4 {color: gold;
+    background-color: green;
+    margin: 10pt;
+    text-align: right;
+    font-size: 15pt;
+    line-height: 1;
+    font-family: "Courier New", serif;}
+
+h5 {color: blue;
+    background-color: white;
+    margin: 10pt;
+    text-align: left;
+    font-size: 15pt;
+    line-height: 1;
+    font-style: bold;
+    text-decoration: underline;
+    font-family: "Ariel", serif;}

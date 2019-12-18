@@ -3,7 +3,8 @@
 Hi, and welcome to my website!  Here are all of the projects that I have done in the Web Design class at my school.
 
 ## Starter Projects:
-### - [Starter Project 1](https://sugarbug1211.github.io/Beginning%20Projects/prg1.htm)
+### - [Starter Project 1](https://sugarbug1211.github.io/Beginning%20Projects/prg1.htm) 
+This was the first projects that I did.  In this project I was practicing using different headings (h1, h2, etc.) and center alignment.
 ### - [Starter Project 2](https://sugarbug1211.github.io/Beginning%20Projects/prg2.htm)
 ### - [Starter Project 3](https://sugarbug1211.github.io/Beginning%20Projects/prg3.htm)
 ### - [Starter Project 4](https://sugarbug1211.github.io/Beginning%20Projects/prg4.htm)

@@ -21,4 +21,4 @@ Hi, and welcome to my website!  Here are all of the projects that I have done in
 ### Big Group Project:
 - https://sugarbug1211.github.io/1.%20Login%20Page/login-page.html
 
-#Thank you for checking out my website!!
+## Thank you for checking out my website!!

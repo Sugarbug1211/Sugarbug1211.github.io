@@ -4,7 +4,7 @@ Hi, and welcome to my website!  Here are all of the projects that I have done in
 
 ## Starter Projects:
 ### - [Starter Project 1](https://sugarbug1211.github.io/Beginning%20Projects/prg1.htm) 
-This was the first projects that I did.  In this project I was practicing using different headings (h1, h2, etc.) and center alignment.
+This was the first projects that I did.  In this project I was practicing using different headings and center alignment.
 
 ### - [Starter Project 2](https://sugarbug1211.github.io/Beginning%20Projects/prg2.htm)
 This was the second project that I did.  In this project I was practicing using highlights and text color.

@@ -1,26 +1,14 @@
-hr{color: black;
-    height: 10px;
-    width: 850px;
-    border:1px solid black;
-}
+hr{color: black;}
 
 h1{color: blue;
-    font-size: 35pt;
     font-family: forte;
-    text-align: center;
-}
+    text-align: center;}
 
 h2{color: purple;
-    font-size: 20pt;
-    font-family: forte;
-}
+    font-family: forte;}
 
 h3{color: yellow;
-    font-size: 15pt;
-    font-family: forte;
-}
+    font-family: forte;}
 
 h4{color: green;
-    font-size: 20pt;
-    font-family: forte;
-}
+    font-family: forte;}

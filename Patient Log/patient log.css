@@ -1,4 +1,4 @@
-hr{color:black;
+hr{color: black;
     height: 10px;
     width: 850px;
     border:1px solid black;
@@ -15,12 +15,12 @@ h2{color: purple;
     font-family: forte;
 }
 
-h3{color: turquiose;
+h3{color: yellow;
     font-size: 15pt;
     font-family: forte;
 }
 
-h4{color: mint;
+h4{color: green;
     font-size: 20pt;
     font-family: forte;
 }

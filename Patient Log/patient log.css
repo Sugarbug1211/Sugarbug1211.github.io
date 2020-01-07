@@ -1,14 +1,22 @@
-hr{color: black;}
+body{background-color: seashell;}
 
-h1{color: blue;
+hr{color: silver;
+height: 8px;
+width: 600px;
+background-color: silver;}
+
+h1{color: steelblue;
     font-family: forte;
-    text-align: center;}
+    text-align: center;
+    font-size: 36pt;}
 
-h2{color: purple;
-    font-family: forte;}
+h2{font-family: times new roman;
+    font-size: 15pt;}
 
-h3{color: yellow;
-    font-family: forte;}
+h3{color: midnightblue;
+    font-family: monospace;
+    font-size: 12.5pt;}
 
-h4{color: green;
-    font-family: forte;}
+h4{color: midnightblue;
+    font-family: monospace;
+    font-size: 13.5pt;}

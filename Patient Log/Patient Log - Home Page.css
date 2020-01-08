@@ -1,1 +1,11 @@
+body{background-color: seashell;}
 
+hr{color: silver;
+  height: 8px;
+  width: 600px;
+  background-color: silver;}
+
+h1{color: steelblue;
+    font-family: forte;
+    text-align: center;
+    font-size: 36pt;}

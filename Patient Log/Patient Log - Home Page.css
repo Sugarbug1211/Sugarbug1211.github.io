@@ -2,10 +2,18 @@ body{background-color: seashell;}
 
 hr{color: silver;
   height: 8px;
-  width: 600px;
+  width: 650px;
   background-color: silver;}
 
 h1{color: steelblue;
     font-family: forte;
     text-align: center;
     font-size: 36pt;}
+
+h2{color: ;
+    font-family: ;
+    font-size: 15pt;}
+
+h3{color: midnightblue;
+    font-family: monospace;
+    font-size: 13.5pt;}
